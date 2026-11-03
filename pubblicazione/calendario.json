@@ -11,7 +11,7 @@
     },
     {
       "id": "07_ikea",
-      "quando": "2026-11-05T16:00",
+      "quando": "2026-11-04T16:00",
       "rubrica": "Brand contro brand",
       "video": "07_ikea.mp4",
       "copertina": "07_ikea-cover.jpg",
@@ -19,7 +19,7 @@
     },
     {
       "id": "05_apple_vs_samsung",
-      "quando": "2026-11-06T16:00",
+      "quando": "2026-11-05T16:00",
       "rubrica": "Brand contro brand",
       "video": "05_apple_vs_samsung.mp4",
       "copertina": "05_apple_vs_samsung-cover.jpg",
@@ -27,7 +27,7 @@
     },
     {
       "id": "01_ryanair",
-      "quando": "2026-11-07T16:00",
+      "quando": "2026-11-06T16:00",
       "rubrica": "Brand contro brand",
       "video": "01_ryanair.mp4",
       "copertina": "01_ryanair-cover.jpg",
@@ -35,7 +35,7 @@
     },
     {
       "id": "46_blockbuster_netflix",
-      "quando": "2026-11-08T16:00",
+      "quando": "2026-11-07T16:00",
       "rubrica": "L'errore da miliardi",
       "video": "46_blockbuster_netflix.mp4",
       "copertina": "46_blockbuster_netflix-cover.jpg",
@@ -43,11 +43,19 @@
     },
     {
       "id": "31_luxottica",
-      "quando": "2026-11-09T16:00",
+      "quando": "2026-11-08T16:00",
       "rubrica": "Made in Italy",
       "video": "31_luxottica.mp4",
       "copertina": "31_luxottica-cover.jpg",
       "caption": "Commenta OCCHIALI e ti mando il brief di questo video su Luxottica: copione, scene, voce e fonti.\n\nRay-Ban, Oakley e Persol sembrano tre marchi di occhiali diversi. Stessa azienda. È EssilorLuxottica, nata ad Agordo nel 1961 come Luxottica: nel 2025 ha fatturato 28,5 miliardi di euro.\n\nI marchi li ha comprati uno alla volta: Persol nel 1995, Ray-Ban nel 1999, Oakley nel 2007 per circa 2,1 miliardi di dollari.\n\nPoi produce e distribuisce su licenza gli occhiali di Prada, Chanel, Armani e Dolce&Gabbana. E ha i negozi: Sunglass Hut, LensCrafters, Salmoiraghi & Viganò, quasi 18.000 nel mondo (17.750 a fine 2025, compresi quelli in franchising). Dal 2018, con Essilor, fa anche le lenti.\n\nPerfino gli occhiali smart di Meta portano un suo marchio: Ray-Ban.\n\nIl video l'ho fatto tutto in codice e senza loghi: non è affiliato a EssilorLuxottica né ai marchi citati.\n\n#luxottica #occhiali #madeinitaly"
+    },
+    {
+      "id": "32_kinder_sorpresa",
+      "quando": "2026-11-09T16:00",
+      "rubrica": "Made in Italy",
+      "video": "32_kinder_sorpresa.mp4",
+      "copertina": "32_kinder_sorpresa-cover.jpg",
+      "caption": "Commenta OVETTO e ti mando il brief di questo video sul Kinder Sorpresa: copione, scene, voce e fonti.\n\nNegli Stati Uniti il Kinder Sorpresa non si può vendere. Il motivo è una legge del 1938: niente dolci con dentro un oggetto non commestibile, perché un bambino può soffocare. Nel 2011 la dogana americana ne ha sequestrati oltre 60.000.\n\nEppure lì Ferrero vende ovetti con la sorpresa. Sono i Kinder Joy, nati nel 2001 per i paesi caldi: crema in una metà, gioco nell'altra. Il gioco non sta dentro il dolce. Quindi è in regola.\n\nE il Kinder Sorpresa? È del 1974. L'idea di Michele Ferrero era far vivere la Pasqua tutti i giorni.\n\nIl video l'ho fatto tutto in codice e senza loghi: non è affiliato a Ferrero.\n\n#kindersorpresa #ferrero #madeinitaly"
     },
     {
       "id": "20_black_friday",
@@ -58,16 +66,8 @@
       "caption": "Commenta SCONTO e ti mando la checklist: 5 controlli in 2 minuti prima di comprare al Black Friday.\n\nUno sconto del 40% che ti fa risparmiare zero euro? Succede. Il prezzo sale più di un mese prima, poi torna dov'era: la regola dei 30 giorni è rispettata e tu non risparmi niente.\n\nI tre trucchi del video sono il prezzo gonfiato, il timer che riparte da capo quando scade e lo sconto calcolato sul prezzo consigliato. Per riconoscere gli sconti finti al Black Friday 2026 (venerdì 27 novembre) io partirei dallo storico dei prezzi.\n\nDal 2023 chi annuncia uno sconto deve indicare il prezzo più basso degli ultimi 30 giorni (art. 17-bis del Codice del Consumo). E nel 2026 l'AGCM ha multato per 2 milioni di euro un conto alla rovescia fittizio.\n\nFriggitrice, negozio e prezzi sono esempi, nessun marchio reale. L'ho fatto tutto in codice. Non è consulenza legale.\n\n#blackfriday #sconti #consumatori"
     },
     {
-      "id": "32_kinder_sorpresa",
-      "quando": "2026-11-11T16:00",
-      "rubrica": "Made in Italy",
-      "video": "32_kinder_sorpresa.mp4",
-      "copertina": "32_kinder_sorpresa-cover.jpg",
-      "caption": "Commenta OVETTO e ti mando il brief di questo video sul Kinder Sorpresa: copione, scene, voce e fonti.\n\nNegli Stati Uniti il Kinder Sorpresa non si può vendere. Il motivo è una legge del 1938: niente dolci con dentro un oggetto non commestibile, perché un bambino può soffocare. Nel 2011 la dogana americana ne ha sequestrati oltre 60.000.\n\nEppure lì Ferrero vende ovetti con la sorpresa. Sono i Kinder Joy, nati nel 2001 per i paesi caldi: crema in una metà, gioco nell'altra. Il gioco non sta dentro il dolce. Quindi è in regola.\n\nE il Kinder Sorpresa? È del 1974. L'idea di Michele Ferrero era far vivere la Pasqua tutti i giorni.\n\nIl video l'ho fatto tutto in codice e senza loghi: non è affiliato a Ferrero.\n\n#kindersorpresa #ferrero #madeinitaly"
-    },
-    {
       "id": "60_oro_cubo",
-      "quando": "2026-11-12T16:00",
+      "quando": "2026-11-11T16:00",
       "rubrica": "Quanto è grande",
       "video": "60_oro_cubo.mp4",
       "copertina": "60_oro_cubo-cover.jpg",

@@ -5,14 +5,14 @@ Generato da `./reel ig carica` (repository IG-3-trucchi): non modificarlo a mano
 | Quando | Reel | Serie | Stato |
 |---|---|---|---|
 | martedì 3 novembre 2026 16:00 | 03_coca_vs_pepsi | Brand contro brand | pubblicato |
-| giovedì 5 novembre 2026 16:00 | 07_ikea | Brand contro brand | in calendario |
-| venerdì 6 novembre 2026 16:00 | 05_apple_vs_samsung | Brand contro brand | in calendario |
-| sabato 7 novembre 2026 16:00 | 01_ryanair | Brand contro brand | in calendario |
-| domenica 8 novembre 2026 16:00 | 46_blockbuster_netflix | L'errore da miliardi | in calendario |
-| lunedì 9 novembre 2026 16:00 | 31_luxottica | Made in Italy | in calendario |
+| mercoledì 4 novembre 2026 16:00 | 07_ikea | Brand contro brand | in calendario |
+| giovedì 5 novembre 2026 16:00 | 05_apple_vs_samsung | Brand contro brand | in calendario |
+| venerdì 6 novembre 2026 16:00 | 01_ryanair | Brand contro brand | in calendario |
+| sabato 7 novembre 2026 16:00 | 46_blockbuster_netflix | L'errore da miliardi | in calendario |
+| domenica 8 novembre 2026 16:00 | 31_luxottica | Made in Italy | in calendario |
+| lunedì 9 novembre 2026 16:00 | 32_kinder_sorpresa | Made in Italy | in calendario |
 | martedì 10 novembre 2026 16:00 | 20_black_friday | Il negozio ti sta manipolando | in calendario |
-| mercoledì 11 novembre 2026 16:00 | 32_kinder_sorpresa | Made in Italy | in calendario |
-| giovedì 12 novembre 2026 16:00 | 60_oro_cubo | Quanto è grande | in calendario |
+| mercoledì 11 novembre 2026 16:00 | 60_oro_cubo | Quanto è grande | in calendario |
 
 ## 03_coca_vs_pepsi (martedì 3 novembre 2026, 16:00)
 
@@ -32,7 +32,7 @@ Video fatto tutto in codice, senza loghi, non affiliato ai marchi citati.
 
 #cocacola #pepsi #marketing
 
-## 07_ikea (giovedì 5 novembre 2026, 16:00)
+## 07_ikea (mercoledì 4 novembre 2026, 16:00)
 
 Commenta MOBILE e ti mando il brief con cui ho fatto questo video: copione, scene, voce e fonti.
 
@@ -48,7 +48,7 @@ Video fatto tutto in codice, senza loghi, non affiliato a IKEA.
 
 #ikea #marketing #psicologia
 
-## 05_apple_vs_samsung (venerdì 6 novembre 2026, 16:00)
+## 05_apple_vs_samsung (giovedì 5 novembre 2026, 16:00)
 
 Commenta MELA e ti mando il brief di questo video su Apple vs Samsung: copione, scene, voce e fonti.
 
@@ -66,7 +66,7 @@ Video fatto tutto in codice, senza loghi, non affiliato ad Apple o Samsung.
 
 #apple #samsung #marketing
 
-## 01_ryanair (sabato 7 novembre 2026, 16:00)
+## 01_ryanair (venerdì 6 novembre 2026, 16:00)
 
 Commenta VOLO e ti mando il brief di questo video su Ryanair: copione, scene, voce e fonti.
 
@@ -82,7 +82,7 @@ Video fatto tutto in codice, senza loghi, non affiliato a Ryanair o Boeing.
 
 #ryanair #volilowcost #marketing
 
-## 46_blockbuster_netflix (domenica 8 novembre 2026, 16:00)
+## 46_blockbuster_netflix (sabato 7 novembre 2026, 16:00)
 
 Commenta ERRORE e ti mando il brief di questo video su Blockbuster e Netflix: copione, scene, voce e fonti.
 
@@ -98,7 +98,7 @@ Il video l'ho fatto tutto in codice e senza loghi: non è affiliato a Netflix o 
 
 #netflix #blockbuster #business
 
-## 31_luxottica (lunedì 9 novembre 2026, 16:00)
+## 31_luxottica (domenica 8 novembre 2026, 16:00)
 
 Commenta OCCHIALI e ti mando il brief di questo video su Luxottica: copione, scene, voce e fonti.
 
@@ -114,6 +114,20 @@ Il video l'ho fatto tutto in codice e senza loghi: non è affiliato a EssilorLux
 
 #luxottica #occhiali #madeinitaly
 
+## 32_kinder_sorpresa (lunedì 9 novembre 2026, 16:00)
+
+Commenta OVETTO e ti mando il brief di questo video sul Kinder Sorpresa: copione, scene, voce e fonti.
+
+Negli Stati Uniti il Kinder Sorpresa non si può vendere. Il motivo è una legge del 1938: niente dolci con dentro un oggetto non commestibile, perché un bambino può soffocare. Nel 2011 la dogana americana ne ha sequestrati oltre 60.000.
+
+Eppure lì Ferrero vende ovetti con la sorpresa. Sono i Kinder Joy, nati nel 2001 per i paesi caldi: crema in una metà, gioco nell'altra. Il gioco non sta dentro il dolce. Quindi è in regola.
+
+E il Kinder Sorpresa? È del 1974. L'idea di Michele Ferrero era far vivere la Pasqua tutti i giorni.
+
+Il video l'ho fatto tutto in codice e senza loghi: non è affiliato a Ferrero.
+
+#kindersorpresa #ferrero #madeinitaly
+
 ## 20_black_friday (martedì 10 novembre 2026, 16:00)
 
 Commenta SCONTO e ti mando la checklist: 5 controlli in 2 minuti prima di comprare al Black Friday.
@@ -128,21 +142,7 @@ Friggitrice, negozio e prezzi sono esempi, nessun marchio reale. L'ho fatto tutt
 
 #blackfriday #sconti #consumatori
 
-## 32_kinder_sorpresa (mercoledì 11 novembre 2026, 16:00)
-
-Commenta OVETTO e ti mando il brief di questo video sul Kinder Sorpresa: copione, scene, voce e fonti.
-
-Negli Stati Uniti il Kinder Sorpresa non si può vendere. Il motivo è una legge del 1938: niente dolci con dentro un oggetto non commestibile, perché un bambino può soffocare. Nel 2011 la dogana americana ne ha sequestrati oltre 60.000.
-
-Eppure lì Ferrero vende ovetti con la sorpresa. Sono i Kinder Joy, nati nel 2001 per i paesi caldi: crema in una metà, gioco nell'altra. Il gioco non sta dentro il dolce. Quindi è in regola.
-
-E il Kinder Sorpresa? È del 1974. L'idea di Michele Ferrero era far vivere la Pasqua tutti i giorni.
-
-Il video l'ho fatto tutto in codice e senza loghi: non è affiliato a Ferrero.
-
-#kindersorpresa #ferrero #madeinitaly
-
-## 60_oro_cubo (giovedì 12 novembre 2026, 16:00)
+## 60_oro_cubo (mercoledì 11 novembre 2026, 16:00)
 
 Commenta ORO e ti mando il calcolo con le fonti: quanto oro esiste al mondo e come si arriva al cubo d'oro di 22,6 metri.
 
