@@ -31,6 +31,8 @@ jobs:
         working-directory: pubblicazione
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # l'ultima versione del branch: un giro rimasto in coda deve vedere il pubblicati.json aggiornato
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -51,4 +53,4 @@ jobs:
           git config user.name "spiegoni-bot"
           git config user.email "actions@github.com"
           git add pubblicati.json 2>/dev/null || exit 0
-          git diff --cached --quiet || (git commit -m "Pubblicato su Instagram" && git push)
+          git diff --cached --quiet || (git commit -m "Pubblicato su Instagram" && git pull --rebase && git push)
