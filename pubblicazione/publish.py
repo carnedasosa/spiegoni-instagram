@@ -54,11 +54,12 @@ def call(method, path, **params):
 def wait_ready(container_id, tries=30, pause=5):
     # Instagram scarica e valida l'immagine (o il video) in modo asincrono.
     for _ in range(tries):
-        status = call("GET", container_id, fields="status_code")["status_code"]
+        info = call("GET", container_id, fields="status_code,status")
+        status = info["status_code"]
         if status == "FINISHED":
             return
         if status in ("ERROR", "EXPIRED"):
-            sys.exit(f"Container {container_id} in stato {status}")
+            sys.exit(f"Container {container_id} in stato {status}: {info.get('status', '')}")
         time.sleep(pause)
     sys.exit(f"Container {container_id} non pronto dopo {tries * pause} secondi")
 
