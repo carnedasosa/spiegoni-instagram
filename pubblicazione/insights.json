@@ -1,0 +1,131 @@
+{
+  "versione": 1,
+  "letto_il": "2026-11-10T17:59:50Z",
+  "account": {
+    "username": "glispiegoni",
+    "follower": 31,
+    "seguiti": 3,
+    "post": 9
+  },
+  "insights": "ok",
+  "post": [
+    {
+      "media_id": "18115672657876209",
+      "permalink": "https://www.instagram.com/reel/DfkNuFwldvj/",
+      "pubblicato_il": "2026-11-10T15:21:17+0000",
+      "tipo": "REELS",
+      "like": 16,
+      "commenti": 0,
+      "copertura": 463,
+      "visualizzazioni": 618,
+      "salvataggi": 1,
+      "condivisioni": 0,
+      "interazioni": 17
+    },
+    {
+      "media_id": "18110465576252679",
+      "permalink": "https://www.instagram.com/reel/Dfho7v5jJZa/",
+      "pubblicato_il": "2026-11-09T15:21:20+0000",
+      "tipo": "REELS",
+      "like": 55,
+      "commenti": 0,
+      "copertura": 1571,
+      "visualizzazioni": 1763,
+      "salvataggi": 2,
+      "condivisioni": 1,
+      "interazioni": 58
+    },
+    {
+      "media_id": "17876187417596886",
+      "permalink": "https://www.instagram.com/reel/DffHWEAnwUW/",
+      "pubblicato_il": "2026-11-08T15:49:11+0000",
+      "tipo": "REELS",
+      "like": 30,
+      "commenti": 0,
+      "copertura": 1742,
+      "visualizzazioni": 1924,
+      "salvataggi": 4,
+      "condivisioni": 6,
+      "interazioni": 40
+    },
+    {
+      "media_id": "18453237256135274",
+      "permalink": "https://www.instagram.com/reel/Dfc6_N9Cbiq/",
+      "pubblicato_il": "2026-11-07T19:22:33+0000",
+      "tipo": "REELS",
+      "like": 5,
+      "commenti": 0,
+      "copertura": 12,
+      "visualizzazioni": 21,
+      "salvataggi": 0,
+      "condivisioni": 0,
+      "interazioni": 5
+    },
+    {
+      "media_id": "18656147800045298",
+      "permalink": "https://www.instagram.com/reel/DfZ6jndj3gL/",
+      "pubblicato_il": "2026-11-06T15:21:25+0000",
+      "tipo": "REELS",
+      "like": 10,
+      "commenti": 0,
+      "copertura": 1059,
+      "visualizzazioni": 1206,
+      "salvataggi": 1,
+      "condivisioni": 1,
+      "interazioni": 12
+    },
+    {
+      "media_id": "18019229726956678",
+      "permalink": "https://www.instagram.com/reel/DfXVwMqFcxf/",
+      "pubblicato_il": "2026-11-05T15:21:20+0000",
+      "tipo": "REELS",
+      "like": 82,
+      "commenti": 3,
+      "copertura": 4345,
+      "visualizzazioni": 4784,
+      "salvataggi": 15,
+      "condivisioni": 38,
+      "interazioni": 143
+    },
+    {
+      "media_id": "18136467208778961",
+      "permalink": "https://www.instagram.com/reel/DfVKby6iRRF/",
+      "pubblicato_il": "2026-11-04T19:03:58+0000",
+      "tipo": "REELS",
+      "like": 37,
+      "commenti": 0,
+      "copertura": 1450,
+      "visualizzazioni": 1604,
+      "salvataggi": 5,
+      "condivisioni": 4,
+      "interazioni": 46
+    },
+    {
+      "media_id": "18100510472090175",
+      "permalink": "https://www.instagram.com/reel/DfS4o4SOs4G/",
+      "pubblicato_il": "2026-11-03T21:49:35+0000",
+      "tipo": "REELS",
+      "like": 40,
+      "commenti": 0,
+      "copertura": 1566,
+      "visualizzazioni": 1831,
+      "salvataggi": 3,
+      "condivisioni": 7,
+      "interazioni": 50
+    },
+    {
+      "media_id": "17996218896111438",
+      "permalink": "https://www.instagram.com/reel/DfPpDANuh2V/",
+      "pubblicato_il": "2026-11-02T15:35:54+0000",
+      "tipo": "REELS",
+      "like": 39,
+      "commenti": 6,
+      "copertura": 1357,
+      "visualizzazioni": 1529,
+      "salvataggi": 5,
+      "condivisioni": 5,
+      "interazioni": 55
+    }
+  ],
+  "errore": null
+}
