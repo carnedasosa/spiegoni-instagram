@@ -1,14 +1,27 @@
 {
   "versione": 1,
-  "letto_il": "2026-11-12T08:48:45Z",
+  "letto_il": "2026-11-12T17:33:59Z",
   "account": {
     "username": "glispiegoni",
     "follower": 31,
     "seguiti": 4,
-    "post": 10
+    "post": 11
   },
   "insights": "ok",
   "post": [
+    {
+      "media_id": "18171080002482893",
+      "permalink": "https://www.instagram.com/reel/DfpmewkDcrA/",
+      "pubblicato_il": "2026-11-12T17:33:43+0000",
+      "tipo": "REELS",
+      "like": 0,
+      "commenti": 0,
+      "copertura": 0,
+      "visualizzazioni": 0,
+      "salvataggi": 0,
+      "condivisioni": 0,
+      "interazioni": 0
+    },
     {
       "media_id": "17874529446647887",
       "permalink": "https://www.instagram.com/reel/Dfmyg50DmI1/",
@@ -16,8 +29,8 @@
       "tipo": "REELS",
       "like": 31,
       "commenti": 0,
-      "copertura": 1510,
-      "visualizzazioni": 1694,
+      "copertura": 1556,
+      "visualizzazioni": 1745,
       "salvataggi": 2,
       "condivisioni": 1,
       "interazioni": 34
@@ -29,8 +42,8 @@
       "tipo": "REELS",
       "like": 46,
       "commenti": 4,
-      "copertura": 1700,
-      "visualizzazioni": 1983,
+      "copertura": 1702,
+      "visualizzazioni": 1990,
       "salvataggi": 8,
       "condivisioni": 1,
       "interazioni": 59
@@ -42,8 +55,8 @@
       "tipo": "REELS",
       "like": 55,
       "commenti": 0,
-      "copertura": 1583,
-      "visualizzazioni": 1774,
+      "copertura": 1584,
+      "visualizzazioni": 1775,
       "salvataggi": 2,
       "condivisioni": 1,
       "interazioni": 58
@@ -55,8 +68,8 @@
       "tipo": "REELS",
       "like": 31,
       "commenti": 0,
-      "copertura": 1760,
-      "visualizzazioni": 1948,
+      "copertura": 1765,
+      "visualizzazioni": 1950,
       "salvataggi": 4,
       "condivisioni": 6,
       "interazioni": 41
@@ -69,7 +82,7 @@
       "like": 5,
       "commenti": 0,
       "copertura": 12,
-      "visualizzazioni": 21,
+      "visualizzazioni": 22,
       "salvataggi": 0,
       "condivisioni": 0,
       "interazioni": 5
@@ -92,13 +105,13 @@
       "permalink": "https://www.instagram.com/reel/DfXVwMqFcxf/",
       "pubblicato_il": "2026-11-05T15:21:20+0000",
       "tipo": "REELS",
-      "like": 87,
+      "like": 88,
       "commenti": 3,
-      "copertura": 4482,
-      "visualizzazioni": 4930,
+      "copertura": 4520,
+      "visualizzazioni": 4972,
       "salvataggi": 16,
       "condivisioni": 38,
-      "interazioni": 149
+      "interazioni": 150
     },
     {
       "media_id": "18136467208778961",
