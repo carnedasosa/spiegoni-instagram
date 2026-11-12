@@ -1,6 +1,6 @@
 {
   "versione": 1,
-  "letto_il": "2026-11-12T17:33:59Z",
+  "letto_il": "2026-11-12T22:51:04Z",
   "account": {
     "username": "glispiegoni",
     "follower": 31,
@@ -14,13 +14,13 @@
       "permalink": "https://www.instagram.com/reel/DfpmewkDcrA/",
       "pubblicato_il": "2026-11-12T17:33:43+0000",
       "tipo": "REELS",
-      "like": 0,
+      "like": 17,
       "commenti": 0,
-      "copertura": 0,
-      "visualizzazioni": 0,
+      "copertura": 1090,
+      "visualizzazioni": 1229,
       "salvataggi": 0,
       "condivisioni": 0,
-      "interazioni": 0
+      "interazioni": 17
     },
     {
       "media_id": "17874529446647887",
@@ -29,8 +29,8 @@
       "tipo": "REELS",
       "like": 31,
       "commenti": 0,
-      "copertura": 1556,
-      "visualizzazioni": 1745,
+      "copertura": 1571,
+      "visualizzazioni": 1761,
       "salvataggi": 2,
       "condivisioni": 1,
       "interazioni": 34
@@ -43,10 +43,10 @@
       "like": 46,
       "commenti": 4,
       "copertura": 1702,
-      "visualizzazioni": 1990,
+      "visualizzazioni": 1993,
       "salvataggi": 8,
-      "condivisioni": 1,
-      "interazioni": 59
+      "condivisioni": 2,
+      "interazioni": 60
     },
     {
       "media_id": "18110465576252679",
@@ -55,8 +55,8 @@
       "tipo": "REELS",
       "like": 55,
       "commenti": 0,
-      "copertura": 1584,
-      "visualizzazioni": 1775,
+      "copertura": 1585,
+      "visualizzazioni": 1776,
       "salvataggi": 2,
       "condivisioni": 1,
       "interazioni": 58
@@ -66,13 +66,13 @@
       "permalink": "https://www.instagram.com/reel/DffHWEAnwUW/",
       "pubblicato_il": "2026-11-08T15:49:11+0000",
       "tipo": "REELS",
-      "like": 31,
+      "like": 32,
       "commenti": 0,
-      "copertura": 1765,
-      "visualizzazioni": 1950,
+      "copertura": 1768,
+      "visualizzazioni": 1953,
       "salvataggi": 4,
       "condivisioni": 6,
-      "interazioni": 41
+      "interazioni": 42
     },
     {
       "media_id": "18453237256135274",
@@ -81,8 +81,8 @@
       "tipo": "REELS",
       "like": 5,
       "commenti": 0,
-      "copertura": 12,
-      "visualizzazioni": 22,
+      "copertura": 13,
+      "visualizzazioni": 23,
       "salvataggi": 0,
       "condivisioni": 0,
       "interazioni": 5
@@ -92,26 +92,26 @@
       "permalink": "https://www.instagram.com/reel/DfZ6jndj3gL/",
       "pubblicato_il": "2026-11-06T15:21:25+0000",
       "tipo": "REELS",
-      "like": 10,
+      "like": 11,
       "commenti": 0,
-      "copertura": 1061,
-      "visualizzazioni": 1207,
+      "copertura": 1063,
+      "visualizzazioni": 1208,
       "salvataggi": 1,
       "condivisioni": 1,
-      "interazioni": 12
+      "interazioni": 13
     },
     {
       "media_id": "18019229726956678",
       "permalink": "https://www.instagram.com/reel/DfXVwMqFcxf/",
       "pubblicato_il": "2026-11-05T15:21:20+0000",
       "tipo": "REELS",
-      "like": 88,
+      "like": 90,
       "commenti": 3,
-      "copertura": 4520,
-      "visualizzazioni": 4972,
-      "salvataggi": 16,
+      "copertura": 4557,
+      "visualizzazioni": 5010,
+      "salvataggi": 17,
       "condivisioni": 38,
-      "interazioni": 150
+      "interazioni": 153
     },
     {
       "media_id": "18136467208778961",
@@ -121,7 +121,7 @@
       "like": 37,
       "commenti": 0,
       "copertura": 1450,
-      "visualizzazioni": 1604,
+      "visualizzazioni": 1605,
       "salvataggi": 5,
       "condivisioni": 4,
       "interazioni": 46
@@ -133,8 +133,8 @@
       "tipo": "REELS",
       "like": 40,
       "commenti": 0,
-      "copertura": 1566,
-      "visualizzazioni": 1831,
+      "copertura": 1567,
+      "visualizzazioni": 1833,
       "salvataggi": 3,
       "condivisioni": 7,
       "interazioni": 50
@@ -144,13 +144,13 @@
       "permalink": "https://www.instagram.com/reel/DfPpDANuh2V/",
       "pubblicato_il": "2026-11-02T15:35:54+0000",
       "tipo": "REELS",
-      "like": 39,
+      "like": 40,
       "commenti": 6,
-      "copertura": 1360,
-      "visualizzazioni": 1531,
+      "copertura": 1362,
+      "visualizzazioni": 1532,
       "salvataggi": 5,
       "condivisioni": 5,
-      "interazioni": 55
+      "interazioni": 56
     }
   ],
   "errore": null
