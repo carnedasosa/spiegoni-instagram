@@ -145,12 +145,18 @@ def diagnosi(user_id):
 
 
 def invia(user_id, keyword, rispondi):
-    candidati = []
+    # I commenti dell'account stesso (le prove fatte da @glispiegoni) non si contano: non si scrive a sé stessi.
+    io = chiama("GET", "me", {"fields": "username"}).get("username", "").lower()
+    candidati, miei = [], 0
     for m in reel_recenti(user_id):
         for c in commenti(m["id"]):
             if ha_keyword(c.get("text"), keyword):
-                candidati.append((m, c))
-    print(f"Commenti con {keyword} negli ultimi {GIORNI} giorni: {len(candidati)} (ne provo al massimo {MASSIMO_INVII})")
+                if io and (c.get("username") or "").lower() == io:
+                    miei += 1
+                else:
+                    candidati.append((m, c))
+    print(f"Commenti con {keyword} negli ultimi {GIORNI} giorni: {len(candidati)} di altri, {miei} dell'account "
+          f"(saltati). Ne provo al massimo {MASSIMO_INVII}.")
     riusciti = 0
     for n, (m, c) in enumerate(candidati[:MASSIMO_INVII], 1):
         try:
