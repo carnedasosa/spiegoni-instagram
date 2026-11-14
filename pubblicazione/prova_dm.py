@@ -120,6 +120,30 @@ def leggi(user_id, keyword):
     print(f"Totale: dichiarati {tot_dichiarati}, letti {tot_letti} (le risposte ai commenti non sono contate tra i letti).")
 
 
+def diagnosi(user_id):
+    """Sul reel con più commenti prova quattro modi di chiedere i commenti: conta solo quanti ne tornano."""
+    reel = max(reel_recenti(user_id), key=lambda m: m.get("comments_count") or 0)
+    print(f"Reel: {reel.get('permalink')}, Instagram dice {reel.get('comments_count')} commenti")
+    token = os.environ["IG_ACCESS_TOKEN"]
+    prove = {
+        "comments, solo id, token nell'intestazione": lambda: chiama("GET", f"{reel['id']}/comments", {"fields": "id"}),
+        "campo comments del reel": lambda: chiama("GET", reel["id"], {"fields": "comments{id}"}).get("comments", {}),
+    }
+    for nome, f in prove.items():
+        try:
+            print(f"- {nome}: {len(f().get('data', []))}")
+        except ErroreApi as e:
+            print(f"- {nome}: errore ({e})")
+    for versione in ("v27.0", "v23.0"):
+        url = (f"https://graph.instagram.com/{versione}/{reel['id']}/comments?"
+               + urllib.parse.urlencode({"fields": "id", "access_token": token}))
+        try:
+            with urllib.request.urlopen(url, timeout=30) as r:
+                print(f"- token nell'URL, {versione}: {len(json.load(r).get('data', []))}")
+        except urllib.error.HTTPError as e:
+            print(f"- token nell'URL, {versione}: errore HTTP {e.code}")
+
+
 def invia(user_id, keyword, rispondi):
     candidati = []
     for m in reel_recenti(user_id):
@@ -150,7 +174,7 @@ def invia(user_id, keyword, rispondi):
 
 def main():
     a = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    a.add_argument("azione", choices=["leggi", "invia"])
+    a.add_argument("azione", choices=["leggi", "invia", "diagnosi"])
     a.add_argument("--keyword", default="PROVADM")
     a.add_argument("--rispondi", action="store_true", help="risponde anche sotto il commento")
     arg = a.parse_args()
@@ -161,7 +185,9 @@ def main():
         sys.exit("Keyword troppo corta: usane una di almeno 5 lettere (es. PROVADM).")
     user_id = os.environ["IG_USER_ID"]
     try:
-        if arg.azione == "leggi":
+        if arg.azione == "diagnosi":
+            diagnosi(user_id)
+        elif arg.azione == "leggi":
             leggi(user_id, arg.keyword)
         elif invia(user_id, arg.keyword, arg.rispondi) == 0:
             sys.exit(1)

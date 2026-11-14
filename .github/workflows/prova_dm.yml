@@ -8,7 +8,7 @@ on:
       azione:
         description: "leggi (sola lettura) oppure invia (manda il DM di prova)"
         type: choice
-        options: [leggi, invia]
+        options: [leggi, invia, diagnosi]
         default: leggi
       keyword:
         description: "keyword da cercare nei commenti"
