@@ -1,0 +1,50 @@
+name: Prova DM ai commenti
+
+# Prova della strada 1 (DM automatico senza ManyChat). Parte solo a mano e non committa niente.
+# leggi = sola lettura dei commenti; invia = risposta privata ai commenti con la keyword di prova.
+on:
+  workflow_dispatch:
+    inputs:
+      azione:
+        description: "leggi (sola lettura) oppure invia (manda il DM di prova)"
+        type: choice
+        options: [leggi, invia]
+        default: leggi
+      keyword:
+        description: "keyword da cercare nei commenti"
+        default: PROVADM
+      rispondi:
+        description: "risponde anche sotto il commento"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: prova-dm
+  cancel-in-progress: false
+
+jobs:
+  prova:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: pubblicazione
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Prova
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          AZIONE: ${{ inputs.azione }}
+          KEYWORD: ${{ inputs.keyword }}
+          RISPONDI: ${{ inputs.rispondi }}
+        run: |
+          extra=""
+          if [ "$RISPONDI" = "true" ]; then extra="--rispondi"; fi
+          python3 prova_dm.py "$AZIONE" --keyword "$KEYWORD" $extra
