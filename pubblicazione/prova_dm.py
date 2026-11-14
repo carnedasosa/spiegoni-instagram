@@ -64,8 +64,8 @@ def chiama(metodo, percorso, campi=None, corpo=None):
             err = json.loads(e.read().decode(errors="replace")).get("error", {})
         except Exception:
             err = {}
-        msg = str(err.get("message", ""))[:160].replace(token, "[token]")
-        raise ErroreApi(e.code, err.get("code"), err.get("error_subcode"), msg) from None
+        # Solo i codici: alcuni messaggi di Meta contengono il nome della persona, e i log sono pubblici.
+        raise ErroreApi(e.code, err.get("code"), err.get("error_subcode"), err.get("type", "errore")) from None
     except (OSError, ValueError, http.client.HTTPException) as e:
         raise ErroreApi(None, None, None, f"rete: {type(e).__name__}") from None
 
@@ -156,6 +156,9 @@ def main():
     arg = a.parse_args()
     if not os.environ.get("IG_ACCESS_TOKEN") or not os.environ.get("IG_USER_ID"):
         sys.exit("Mancano IG_ACCESS_TOKEN o IG_USER_ID.")
+    # Una keyword vuota o corta prenderebbe i commenti veri dei follower e scriverebbe a loro.
+    if len(arg.keyword.strip()) < 5:
+        sys.exit("Keyword troppo corta: usane una di almeno 5 lettere (es. PROVADM).")
     user_id = os.environ["IG_USER_ID"]
     try:
         if arg.azione == "leggi":
