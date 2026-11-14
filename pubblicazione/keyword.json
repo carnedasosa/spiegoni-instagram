@@ -1,0 +1,106 @@
+{
+  "_nota": "Keyword dei DM automatici (dm_keyword.py). attivo=true solo dopo aver spento ManyChat su quella keyword: ogni commento ammette una sola risposta privata. [PDF] nel testo diventa il link.",
+  "risposte_pubbliche": [
+    "Fatto, ti ho scritto in DM.",
+    "Te l'ho mandato in DM. Se non lo vedi, guarda tra le richieste di messaggi.",
+    "Controlla i DM: è lì."
+  ],
+  "keyword": [
+    {
+      "post": "20_black_friday",
+      "keyword": "SCONTO",
+      "attivo": false,
+      "regalo": "regali/sconto_checklist.pdf",
+      "link": "https://drive.google.com/file/d/13HuteiJLaxVnh6__k9jXlPjMb2D1zS0d/view",
+      "testo": "Eccola! La checklist per smascherare uno sconto finto: 5 controlli, due minuti prima di pagare: [PDF]. Se hai poco tempo, parti dal controllo 2: lo sconto vero si calcola sul prezzo più basso degli ultimi 30 giorni, non sul prezzo barrato."
+    },
+    {
+      "post": "60_oro_cubo",
+      "keyword": "ORO",
+      "attivo": false,
+      "regalo": "regali/oro_calcolo.pdf",
+      "link": "",
+      "testo": "Eccolo! Il calcolo del cubo d'oro, passo per passo, con le fonti e le date: [PDF]. Se vuoi rifarlo tu sono quattro operazioni. Questo è il primo \"Quanto è grande\": se ti è piaciuto, salvalo e dimmi che numero vuoi vedere nel prossimo."
+    },
+    {
+      "post": "39_google_maps",
+      "keyword": "MAPPA",
+      "attivo": false,
+      "regalo": "regali/mappa_scena.pdf",
+      "link": "",
+      "testo": "Eccolo! Il codice e il prompt della scena del reel su Google Maps: la città vista dall'alto e la strada che diventa rossa, con il prompt da copiare e il codice spiegato: [PDF]. Se ti è utile, salva il reel: arrivano altri \"3 trucchi\"."
+    },
+    {
+      "post": "18_menu",
+      "keyword": "MENU",
+      "attivo": false,
+      "regalo": "regali/menu_guida.pdf",
+      "link": "https://drive.google.com/file/d/1zo6ag3Qnyq-LB-MqZ8xgQYIdWyS71bBs/view",
+      "testo": "Eccola! La guida per leggere il menù senza farti guidare: i 3 trucchi del video con gli studi e 5 domande da farti prima di ordinare: [PDF]. Se ti è utile, salva il reel: nella serie arrivano altri trucchi dei negozi."
+    },
+    {
+      "post": "06_starbucks_bar",
+      "keyword": "CAFFE",
+      "attivo": false,
+      "regalo": "regali/brief/06_Starbucks_vs_bar_italiano_-_3_Trucchi_-_BRIEF.pdf",
+      "link": "",
+      "testo": "Eccolo! Il brief con cui ho fatto il reel su Starbucks e il bar: copione, scene, voce, musica e fonti, pronto da dare a Claude Code: [PDF]. Se ti è utile, salva il reel: arrivano altri \"3 trucchi\"."
+    },
+    {
+      "post": "21_duolingo",
+      "keyword": "GUFO",
+      "attivo": false,
+      "regalo": "regali/duolingo_guida.pdf",
+      "link": "",
+      "testo": "Ecco la guida: [PDF]. Dentro trovi i 3 trucchi del video con le fonti e come usarli a tuo favore, 5 impostazioni da controllare in dieci minuti (a che ora arriva il promemoria, lo Streak Freeze, la data di rinnovo dell'abbonamento) e come si disdice Super: cancellare l'app non basta."
+    },
+    {
+      "post": "44_contactless",
+      "keyword": "NFC",
+      "attivo": false,
+      "regalo": "regali/nfc_scena.pdf",
+      "link": "",
+      "testo": "Eccolo! Il codice e il prompt della scena del reel sul contactless: la carta ai raggi X con la bobina, il campo del POS e il chip che si accende, con il prompt da copiare e il codice spiegato: [PDF]. Se ti è utile, salva il reel: arrivano altri \"3 trucchi\"."
+    },
+    {
+      "post": "14_casino",
+      "keyword": "FICHE",
+      "attivo": false,
+      "regalo": "regali/casino_guida.pdf",
+      "link": "",
+      "testo": "Ecco la guida: [PDF]. Dentro trovi i 3 trucchi della sala con le fonti, 5 limiti da decidere prima di entrare e i recapiti se il gioco ti sta prendendo la mano: il Telefono Verde dell'Istituto Superiore di Sanità è 800 55 88 22, gratuito e anonimo."
+    },
+    {
+      "post": "49_lego",
+      "keyword": "MATTONCINO",
+      "attivo": false,
+      "regalo": "regali/brief/49_LEGO_-_3_Trucchi_-_BRIEF.pdf",
+      "link": "",
+      "testo": "Eccolo! Il brief con cui ho fatto il reel su LEGO: idea, copione, beat sheet, voce, musica e fonti: [PDF]. Se ti è utile, salva il reel: nella serie \"L'errore da miliardi\" arrivano altri casi."
+    },
+    {
+      "post": "37_autogrill",
+      "keyword": "PANINO",
+      "attivo": false,
+      "regalo": "regali/brief/37_Il_panino_in_autostrada_-_3_Trucchi_-_BRIEF.pdf",
+      "link": "",
+      "testo": "Eccolo! Il brief PDF del video sul panino in autostrada: copione, inquadrature, musica, fonti e le lezioni di quello che ho cambiato strada facendo: [PDF]. Se ti è utile, salva il reel: nella serie arrivano altre storie Made in Italy."
+    },
+    {
+      "post": "42_chatgpt",
+      "keyword": "IA",
+      "attivo": false,
+      "regalo": "regali/ia_scena.pdf",
+      "link": "",
+      "testo": "Eccolo! Il codice e il prompt della scena del reel su ChatGPT: le tre barre che scelgono la parola e la manopola della temperatura, con il prompt da copiare in un'AI che scrive codice e il codice spiegato: [PDF]. Se ti è utile, salva il reel: arrivano altri \"3 trucchi\"."
+    },
+    {
+      "post": "26_palestra",
+      "keyword": "PALESTRA",
+      "attivo": false,
+      "regalo": "regali/palestra_guida.pdf",
+      "link": "",
+      "testo": "Ecco la guida: [PDF]. Dentro trovi il conto da fare prima dell'annuale (quota al mese diviso le volte che ci vai davvero), i 3 trucchi con le fonti, 6 domande da fare alla reception e cosa dice la legge sul rinnovo automatico: dal 31 dicembre 2023 devono avvisarti 30 giorni prima della scadenza."
+    }
+  ]
+}

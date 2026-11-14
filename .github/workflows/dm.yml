@@ -1,0 +1,52 @@
+name: DM alle keyword
+
+# Al posto di ManyChat: chi commenta la keyword sotto un reel riceve il regalo in DM (dm_keyword.py).
+# Funziona solo per le keyword con "attivo": true in pubblicazione/keyword.json.
+on:
+  schedule:
+    - cron: "2-59/5 * * * *"   # ogni 5 minuti (GitHub può tardare qualche minuto)
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: "prova: conta cosa farebbe su tutte le keyword, senza mandare niente"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dm
+  cancel-in-progress: false
+
+jobs:
+  dm:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: pubblicazione
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: DM ai commenti con la keyword
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          PROVA: ${{ inputs.prova }}
+        run: |
+          if [ "$PROVA" = "true" ]; then python3 dm_keyword.py --prova --tutte; else python3 dm_keyword.py; fi
+      - name: Salva i commenti serviti
+        if: ${{ !cancelled() && inputs.prova != true }}
+        run: |
+          git config user.name "spiegoni-bot"
+          git config user.email "actions@github.com"
+          git add dm_serviti.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -q -m "DM alle keyword"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
+          echo "::warning::Commenti serviti non salvati: al prossimo giro Instagram rifiuterà i doppioni"
