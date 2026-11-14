@@ -1,9 +1,9 @@
 {
   "versione": 1,
-  "letto_il": "2026-11-14T15:21:53Z",
+  "letto_il": "2026-11-14T15:50:28Z",
   "account": {
     "username": "glispiegoni",
-    "follower": 33,
+    "follower": 37,
     "seguiti": 4,
     "post": 13
   },
@@ -14,39 +14,39 @@
       "permalink": "https://www.instagram.com/reel/Dfug8vAghVT/",
       "pubblicato_il": "2026-11-14T15:21:39+0000",
       "tipo": "REELS",
-      "like": 0,
+      "like": 1,
       "commenti": 0,
       "copertura": 0,
-      "visualizzazioni": 0,
+      "visualizzazioni": 55,
       "salvataggi": 0,
       "condivisioni": 0,
-      "interazioni": 0
+      "interazioni": 1
     },
     {
       "media_id": "18022765856954744",
       "permalink": "https://www.instagram.com/reel/Dfr_jQlDMlS/",
       "pubblicato_il": "2026-11-13T15:51:23+0000",
       "tipo": "REELS",
-      "like": 25,
+      "like": 26,
       "commenti": 4,
-      "copertura": 1390,
-      "visualizzazioni": 1583,
+      "copertura": 1392,
+      "visualizzazioni": 1591,
       "salvataggi": 11,
       "condivisioni": 11,
-      "interazioni": 51
+      "interazioni": 52
     },
     {
       "media_id": "18171080002482893",
       "permalink": "https://www.instagram.com/reel/DfpmewkDcrA/",
       "pubblicato_il": "2026-11-12T17:33:43+0000",
       "tipo": "REELS",
-      "like": 19,
+      "like": 20,
       "commenti": 0,
-      "copertura": 1098,
-      "visualizzazioni": 1238,
+      "copertura": 1100,
+      "visualizzazioni": 1239,
       "salvataggi": 0,
       "condivisioni": 0,
-      "interazioni": 19
+      "interazioni": 20
     },
     {
       "media_id": "17874529446647887",
@@ -56,7 +56,7 @@
       "like": 32,
       "commenti": 0,
       "copertura": 1597,
-      "visualizzazioni": 1792,
+      "visualizzazioni": 1793,
       "salvataggi": 2,
       "condivisioni": 1,
       "interazioni": 35
@@ -69,7 +69,7 @@
       "like": 46,
       "commenti": 4,
       "copertura": 1702,
-      "visualizzazioni": 1993,
+      "visualizzazioni": 1994,
       "salvataggi": 8,
       "condivisioni": 2,
       "interazioni": 60
@@ -81,8 +81,8 @@
       "tipo": "REELS",
       "like": 55,
       "commenti": 0,
-      "copertura": 1589,
-      "visualizzazioni": 1781,
+      "copertura": 1590,
+      "visualizzazioni": 1782,
       "salvataggi": 2,
       "condivisioni": 1,
       "interazioni": 58
@@ -95,7 +95,7 @@
       "like": 33,
       "commenti": 0,
       "copertura": 1768,
-      "visualizzazioni": 1961,
+      "visualizzazioni": 1962,
       "salvataggi": 5,
       "condivisioni": 7,
       "interazioni": 45
@@ -108,7 +108,7 @@
       "like": 5,
       "commenti": 0,
       "copertura": 13,
-      "visualizzazioni": 23,
+      "visualizzazioni": 24,
       "salvataggi": 0,
       "condivisioni": 0,
       "interazioni": 5
@@ -120,8 +120,8 @@
       "tipo": "REELS",
       "like": 11,
       "commenti": 0,
-      "copertura": 1063,
-      "visualizzazioni": 1208,
+      "copertura": 1064,
+      "visualizzazioni": 1209,
       "salvataggi": 1,
       "condivisioni": 1,
       "interazioni": 13
@@ -133,8 +133,8 @@
       "tipo": "REELS",
       "like": 92,
       "commenti": 3,
-      "copertura": 4708,
-      "visualizzazioni": 5169,
+      "copertura": 4710,
+      "visualizzazioni": 5171,
       "salvataggi": 18,
       "condivisioni": 38,
       "interazioni": 156
