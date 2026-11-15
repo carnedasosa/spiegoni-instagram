@@ -1,14 +1,27 @@
 {
   "versione": 1,
-  "letto_il": "2026-11-15T09:52:54Z",
+  "letto_il": "2026-11-15T15:21:55Z",
   "account": {
     "username": "glispiegoni",
-    "follower": 37,
-    "seguiti": 4,
-    "post": 13
+    "follower": 38,
+    "seguiti": 5,
+    "post": 14
   },
   "insights": "ok",
   "post": [
+    {
+      "media_id": "18128052259908825",
+      "permalink": "https://www.instagram.com/reel/DfxFutRiWQP/",
+      "pubblicato_il": "2026-11-15T15:21:36+0000",
+      "tipo": "REELS",
+      "like": 0,
+      "commenti": 0,
+      "copertura": 0,
+      "visualizzazioni": 0,
+      "salvataggi": 0,
+      "condivisioni": 0,
+      "interazioni": 0
+    },
     {
       "media_id": "17905059273603784",
       "permalink": "https://www.instagram.com/reel/Dfug8vAghVT/",
@@ -16,8 +29,8 @@
       "tipo": "REELS",
       "like": 36,
       "commenti": 1,
-      "copertura": 1053,
-      "visualizzazioni": 1186,
+      "copertura": 1058,
+      "visualizzazioni": 1190,
       "salvataggi": 1,
       "condivisioni": 0,
       "interazioni": 38
@@ -30,7 +43,7 @@
       "like": 26,
       "commenti": 13,
       "copertura": 1422,
-      "visualizzazioni": 1631,
+      "visualizzazioni": 1634,
       "salvataggi": 12,
       "condivisioni": 11,
       "interazioni": 62
@@ -133,8 +146,8 @@
       "tipo": "REELS",
       "like": 94,
       "commenti": 3,
-      "copertura": 4804,
-      "visualizzazioni": 5277,
+      "copertura": 4827,
+      "visualizzazioni": 5312,
       "salvataggi": 18,
       "condivisioni": 38,
       "interazioni": 158
@@ -146,8 +159,8 @@
       "tipo": "REELS",
       "like": 37,
       "commenti": 0,
-      "copertura": 1452,
-      "visualizzazioni": 1605,
+      "copertura": 1454,
+      "visualizzazioni": 1607,
       "salvataggi": 5,
       "condivisioni": 4,
       "interazioni": 46
