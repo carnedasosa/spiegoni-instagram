@@ -205,5 +205,10 @@
       "interazioni": 56
     }
   ],
-  "errore": null
+  "errore": {
+    "quando": "2026-11-17T15:20:36Z",
+    "codice": 190,
+    "sottocodice": 0,
+    "messaggio": "token non valido: va rigenerato"
+  }
 }
