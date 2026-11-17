@@ -5,23 +5,28 @@ Generato da `./reel ig carica` (repository IG-3-trucchi): non modificarlo a mano
 | Quando | Reel | Serie | Stato |
 |---|---|---|---|
 | martedì 3 novembre 2026 16:00 | 03_coca_vs_pepsi | Brand contro brand | pubblicato |
-| mercoledì 4 novembre 2026 16:00 | 07_ikea | Brand contro brand | in calendario |
-| giovedì 5 novembre 2026 16:00 | 05_apple_vs_samsung | Brand contro brand | in calendario |
-| venerdì 6 novembre 2026 16:00 | 01_ryanair | Brand contro brand | in calendario |
-| sabato 7 novembre 2026 16:00 | 46_blockbuster_netflix | L'errore da miliardi | in calendario |
-| domenica 8 novembre 2026 16:00 | 31_luxottica | Made in Italy | in calendario |
-| lunedì 9 novembre 2026 16:00 | 32_kinder_sorpresa | Made in Italy | in calendario |
-| martedì 10 novembre 2026 16:00 | 20_black_friday | Il negozio ti sta manipolando | in calendario |
-| mercoledì 11 novembre 2026 16:00 | 60_oro_cubo | Quanto è grande | in calendario |
-| giovedì 12 novembre 2026 16:00 | 39_google_maps | Tecnologia spiegata in 3D | in calendario |
-| venerdì 13 novembre 2026 16:00 | 18_menu | Il negozio ti sta manipolando | in calendario |
-| sabato 14 novembre 2026 16:00 | 06_starbucks_bar | Brand contro brand | in calendario |
-| domenica 15 novembre 2026 16:00 | 21_duolingo | Se è gratis, chi paga? | in calendario |
-| lunedì 16 novembre 2026 16:00 | 44_contactless | Tecnologia spiegata in 3D | in calendario |
-| martedì 17 novembre 2026 16:00 | 14_casino | Il negozio ti sta manipolando | in calendario |
-| mercoledì 18 novembre 2026 16:00 | 49_lego | L'errore da miliardi | in calendario |
-| giovedì 19 novembre 2026 16:00 | 37_autogrill | Made in Italy | in calendario |
-| venerdì 20 novembre 2026 16:00 | 42_chatgpt | Tecnologia spiegata in 3D | in calendario |
+| mercoledì 4 novembre 2026 16:00 | 07_ikea | Brand contro brand | pubblicato |
+| giovedì 5 novembre 2026 16:00 | 05_apple_vs_samsung | Brand contro brand | pubblicato |
+| venerdì 6 novembre 2026 16:00 | 01_ryanair | Brand contro brand | pubblicato |
+| sabato 7 novembre 2026 16:00 | 46_blockbuster_netflix | L'errore da miliardi | pubblicato |
+| domenica 8 novembre 2026 16:00 | 31_luxottica | Made in Italy | pubblicato |
+| lunedì 9 novembre 2026 16:00 | 32_kinder_sorpresa | Made in Italy | pubblicato |
+| martedì 10 novembre 2026 16:00 | 20_black_friday | Il negozio ti sta manipolando | pubblicato |
+| mercoledì 11 novembre 2026 16:00 | 60_oro_cubo | Quanto è grande | pubblicato |
+| giovedì 12 novembre 2026 16:00 | 39_google_maps | Tecnologia spiegata in 3D | pubblicato |
+| venerdì 13 novembre 2026 16:00 | 18_menu | Il negozio ti sta manipolando | pubblicato |
+| sabato 14 novembre 2026 16:00 | 06_starbucks_bar | Brand contro brand | pubblicato |
+| domenica 15 novembre 2026 16:00 | 21_duolingo | Se è gratis, chi paga? | pubblicato |
+| lunedì 16 novembre 2026 16:00 | 44_contactless | Tecnologia spiegata in 3D | pubblicato |
+| martedì 17 novembre 2026 16:00 | 61_playstation_nintendo | Brand contro brand | in calendario |
+| mercoledì 18 novembre 2026 16:00 | 62_spotify_apple_music | Brand contro brand | in calendario |
+| giovedì 19 novembre 2026 16:00 | 63_iliad_operatori | Brand contro brand | in calendario |
+| venerdì 20 novembre 2026 16:00 | 64_capsule_moka | Brand contro brand | in calendario |
+| sabato 21 novembre 2026 16:00 | 65_redbull_monster | Brand contro brand | in calendario |
+| domenica 22 novembre 2026 16:00 | 14_casino | Il negozio ti sta manipolando | in calendario |
+| lunedì 23 novembre 2026 16:00 | 49_lego | L'errore da miliardi | in calendario |
+| martedì 24 novembre 2026 16:00 | 37_autogrill | Made in Italy | in calendario |
+| mercoledì 25 novembre 2026 16:00 | 42_chatgpt | Tecnologia spiegata in 3D | in calendario |
 | lunedì 4 gennaio 2027 16:00 | 26_palestra | Se è gratis, chi paga? | in calendario |
 
 ## 03_coca_vs_pepsi (martedì 3 novembre 2026, 16:00)
@@ -258,7 +263,101 @@ Video fatto tutto in codice: carta e POS generici, nessun marchio di banche o ci
 
 #nfc #contactless #tecnologia
 
-## 14_casino (martedì 17 novembre 2026, 16:00)
+## 61_playstation_nintendo (martedì 17 novembre 2026, 16:00)
+
+Commenta CONSOLE e ti mando la guida: quanto costa davvero giocare in un anno e come spendere meno.
+
+Tra aprile 2025 e marzo 2026 Nintendo ha venduto quasi 20 milioni di Switch 2, Sony 16 milioni di PS5. Eppure Sony, solo con i videogiochi, ha fatto 2,7 miliardi di euro di utile operativo. Nintendo, con tutta l'azienda, 2,1. Sono i loro bilanci, convertiti in euro al cambio medio dell'anno. Non è un'opinione.
+
+Come? Per giocare online, quasi sempre, serve PS Plus: 71,99 euro l'anno, a prezzo di listino. Il 78% dei giochi PlayStation si scarica, e da un negozio solo: il PlayStation Store, quello di Sony.
+
+Poi ci sono gli acquisti nel gioco. Monete, skin ed espansioni hanno incassato 7,8 miliardi di euro, più delle console (5,4).
+
+Il bello? La PS5 Digital nel 2020 costava 399,99 euro. Oggi 599,99.
+
+Nessun tifo. Sapere come funziona ti fa scegliere con la tua testa quanto spendere per giocare.
+
+Video fatto tutto in codice, senza loghi, non affiliato a Sony o Nintendo.
+
+#playstation #nintendo #videogiochi
+
+## 62_spotify_apple_music (mercoledì 18 novembre 2026, 16:00)
+
+Commenta PLAYLIST e ti mando la guida: quanto paghi davvero la musica in un anno e come spendere meno.
+
+In Italia Spotify Premium e Apple Music costano uguale: 11,99 euro al mese. La differenza è che Spotify si può usare anche gratis, con la pubblicità. Al 30 settembre 2026 lo usavano 788 milioni di persone e ne pagavano 306.
+
+Eppure la pubblicità porta meno di un euro su dieci dei ricavi. Il gratis è una vetrina. Serve a farti passare all'abbonamento.
+
+Poi c'è la prova a zero euro, che finito il mese si rinnova da sola finché non disdici. E il prezzo sale: nel 2023 Premium costava 9,99, oggi 11,99. Family, da 15,99 a 20,99.
+
+E circa due terzi di quello che paghi per la musica vanno a chi ha i diritti. Spotify, nata nel 2006, ha chiuso il primo anno in utile nel 2024.
+
+Nessun tifo. Sono i conti di Spotify e i listini delle due app, e sapere come funziona ti aiuta a scegliere quanto spendere.
+
+Video fatto tutto in codice, senza loghi, non affiliato a Spotify o Apple.
+
+#spotify #applemusic #abbonamenti
+
+## 63_iliad_operatori (giovedì 19 novembre 2026, 16:00)
+
+Commenta SIM e ti mando la guida: come capire se la tua tariffa è giusta prima di cambiare operatore.
+
+Stessa offerta da 200 giga, due prezzi. Se arrivi da Iliad paghi 6,99 euro al mese, se arrivi da TIM 11,99. L'offerta è di Very Mobile, che è di WindTre.
+
+Il motivo è nei dati AGCOM di giugno 2026: dei quattro grandi operatori, Iliad è l'unico che cresce. Ha il 16,1% delle SIM delle persone, 0,8 punti in più in un anno. Gli altri tre scendono.
+
+Così nascono i marchi low cost: Kena è di TIM, Very di WindTre, ho. Mobile di Fastweb e Vodafone. E su ho. attivare la SIM costa 2,99 euro se arrivi da Iliad, 29,90 se arrivi da TIM o Vodafone.
+
+Poi ci sono gli aumenti sulle ricaricabili: TIM a luglio, WindTre a novembre. Con un SMS gratis, entro la scadenza, il prezzo restava quello.
+
+E Iliad? Promette offerte che non cambiano nel tempo, ma il suo contratto le lascia cambiare, tranne quelle "Per sempre". Come per tutti.
+
+Nessun tifo. Sono i siti degli operatori e i dati AGCOM, e sapere come funziona ti aiuta a scegliere.
+
+Video fatto tutto in codice, senza loghi, non affiliato a nessun operatore.
+
+#iliad #operatoritelefonici #tariffe
+
+## 64_capsule_moka (venerdì 20 novembre 2026, 16:00)
+
+Commenta CAPSULA e ti mando la guida: quanto paghi davvero il caffè di casa, al chilo e in un anno.
+
+Moka o capsula? Altroconsumo ha testato 15 caffè macinati per moka: costano da 11 a 29 euro al chilo. Una capsula Nespresso Ristretto costa 4,70 euro per 57 grammi, cioè un prezzo al chilo di 82 euro. Quasi il triplo del macinato più caro.
+
+La macchina costa 99 euro, o 25 in abbonamento: in cambio paghi 25 euro al mese per un anno, in credito da spendere in capsule.
+
+La consegna è gratis da 100 capsule, con 10 euro di sconto sul primo ordine. Cento capsule sono 47 euro alla volta.
+
+E i 47 centesimi a capsula sembrano pochi, ma due caffè al giorno fanno 343 euro l'anno. Con la moka, a 12 centesimi a tazzina secondo Altroconsumo, sono 88.
+
+Nessun tifo: la capsula è comoda, e la comodità si paga. Sapere quanto ti aiuta a scegliere.
+
+Video fatto tutto in codice, senza loghi, non affiliato a Nespresso né ad Altroconsumo.
+
+#caffe #moka #risparmio
+
+## 65_redbull_monster (sabato 21 novembre 2026, 16:00)
+
+Commenta LATTINA e ti mando la guida: quanto paghi davvero la tua lattina, al litro e in un anno.
+
+Red Bull o Monster? Due energy drink nello stesso frigo. Su carrefour.it una Red Bull da 250 ml costa 1,39 euro, una Monster da mezzo litro 1,55. Al litro fa 5,56 euro contro 3,10. Eppure nel 2025 Red Bull ha incassato 12,2 miliardi di euro, il gruppo Monster 7,3.
+
+Il primo trucco è la lattina piccola: si guarda il prezzo della lattina, non il prezzo al litro. La Coca-Cola, al litro, costa meno della metà di una Red Bull.
+
+Il secondo è lo spettacolo: il nome Red Bull gioca a calcio e corre in Formula 1, e la pubblicità non sembra pubblicità.
+
+Il terzo è la fabbrica: Monster fa produrre ad altri la maggior parte delle sue lattine, e su ogni euro di vendite, tolto il costo del prodotto, restano 56 centesimi.
+
+E in Italia Monster la distribuisce l'imbottigliatore della Coca-Cola, mentre The Coca-Cola Company ne possiede più di un quinto.
+
+Nessun tifo: scegli quella che ti piace, ma sapendo quanto la paghi. Prezzi del 16 novembre 2026, cambiano da negozio a negozio.
+
+Video fatto tutto in codice, senza loghi, non affiliato a Red Bull, Monster, Coca-Cola o Carrefour.
+
+#energydrink #redbull #risparmio
+
+## 14_casino (domenica 22 novembre 2026, 16:00)
 
 Commenta FICHE e ti mando la guida PDF: i 3 trucchi della sala, i limiti da darti prima di entrare, dove chiedere aiuto.
 
@@ -278,7 +377,7 @@ Il video l'ho fatto tutto in codice: sala, macchine e fiches sono generiche, nes
 
 #giocodazzardo #psicologia #roulette
 
-## 49_lego (mercoledì 18 novembre 2026, 16:00)
+## 49_lego (lunedì 23 novembre 2026, 16:00)
 
 Commenta MATTONCINO e ti mando il brief di questo video su LEGO: copione, scene, voce e fonti.
 
@@ -296,7 +395,7 @@ Il video l'ho fatto tutto in codice, con mattoncini generici e senza loghi. Non 
 
 #lego #mattoncini #business
 
-## 37_autogrill (giovedì 19 novembre 2026, 16:00)
+## 37_autogrill (martedì 24 novembre 2026, 16:00)
 
 Commenta PANINO e ti mando il brief PDF di questo video: copione, le 5 inquadrature e le fonti, tutto in codice.
 
@@ -312,7 +411,7 @@ Il video l'ho fatto tutto in codice: bar, area di servizio e casello sono generi
 
 #autostrada #areadiservizio #prezzi
 
-## 42_chatgpt (venerdì 20 novembre 2026, 16:00)
+## 42_chatgpt (mercoledì 25 novembre 2026, 16:00)
 
 Commenta IA e ti mando il codice e il prompt di questa scena: 3 barre e una manopola che scelgono la parola.
 

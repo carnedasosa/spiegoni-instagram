@@ -114,8 +114,48 @@
       "caption": "Commenta NFC e ti mando il codice e il prompt di questa scena: la carta ai raggi X, con la bobina a 4 spire e il chip.\n\nBip. La carta tocca il POS e il pagamento passa. Dentro non c'è una batteria: è plastica spenta finché non arriva vicino al lettore. Allora come funziona il contactless?\n\nTrucco 1, l'antenna. Nella carta c'è una bobina di filo che gira lungo il bordo, nella fascia che indica la norma ISO/IEC 14443.\n\nTrucco 2, l'energia. Il POS crea un campo magnetico a 13,56 MHz, la bobina lo raccoglie e accende il chip. Per questo una carta contactless paga solo da vicino.\n\nTrucco 3, il codice. A ogni pagamento il chip crea un codice di sicurezza nuovo, che vale una volta sola (lo spiega EMVCo).\n\nE il PIN? In Europa, fino a 50 euro, la banca può non chiederlo, entro un limite sui pagamenti di fila (Regolamento delegato UE 2018/389, art. 11).\n\nIo l'ho ricostruita in 3D, strato per strato, per vedere cosa c'è dentro una carta che paga.\n\nVideo fatto tutto in codice: carta e POS generici, nessun marchio di banche o circuiti.\n\n#nfc #contactless #tecnologia"
     },
     {
-      "id": "14_casino",
+      "id": "61_playstation_nintendo",
       "quando": "2026-11-17T16:00",
+      "rubrica": "Brand contro brand",
+      "video": "61_playstation_nintendo.mp4",
+      "copertina": "61_playstation_nintendo-cover.jpg",
+      "caption": "Commenta CONSOLE e ti mando la guida: quanto costa davvero giocare in un anno e come spendere meno.\n\nTra aprile 2025 e marzo 2026 Nintendo ha venduto quasi 20 milioni di Switch 2, Sony 16 milioni di PS5. Eppure Sony, solo con i videogiochi, ha fatto 2,7 miliardi di euro di utile operativo. Nintendo, con tutta l'azienda, 2,1. Sono i loro bilanci, convertiti in euro al cambio medio dell'anno. Non è un'opinione.\n\nCome? Per giocare online, quasi sempre, serve PS Plus: 71,99 euro l'anno, a prezzo di listino. Il 78% dei giochi PlayStation si scarica, e da un negozio solo: il PlayStation Store, quello di Sony.\n\nPoi ci sono gli acquisti nel gioco. Monete, skin ed espansioni hanno incassato 7,8 miliardi di euro, più delle console (5,4).\n\nIl bello? La PS5 Digital nel 2020 costava 399,99 euro. Oggi 599,99.\n\nNessun tifo. Sapere come funziona ti fa scegliere con la tua testa quanto spendere per giocare.\n\nVideo fatto tutto in codice, senza loghi, non affiliato a Sony o Nintendo.\n\n#playstation #nintendo #videogiochi"
+    },
+    {
+      "id": "62_spotify_apple_music",
+      "quando": "2026-11-18T16:00",
+      "rubrica": "Brand contro brand",
+      "video": "62_spotify_apple_music.mp4",
+      "copertina": "62_spotify_apple_music-cover.jpg",
+      "caption": "Commenta PLAYLIST e ti mando la guida: quanto paghi davvero la musica in un anno e come spendere meno.\n\nIn Italia Spotify Premium e Apple Music costano uguale: 11,99 euro al mese. La differenza è che Spotify si può usare anche gratis, con la pubblicità. Al 30 settembre 2026 lo usavano 788 milioni di persone e ne pagavano 306.\n\nEppure la pubblicità porta meno di un euro su dieci dei ricavi. Il gratis è una vetrina. Serve a farti passare all'abbonamento.\n\nPoi c'è la prova a zero euro, che finito il mese si rinnova da sola finché non disdici. E il prezzo sale: nel 2023 Premium costava 9,99, oggi 11,99. Family, da 15,99 a 20,99.\n\nE circa due terzi di quello che paghi per la musica vanno a chi ha i diritti. Spotify, nata nel 2006, ha chiuso il primo anno in utile nel 2024.\n\nNessun tifo. Sono i conti di Spotify e i listini delle due app, e sapere come funziona ti aiuta a scegliere quanto spendere.\n\nVideo fatto tutto in codice, senza loghi, non affiliato a Spotify o Apple.\n\n#spotify #applemusic #abbonamenti"
+    },
+    {
+      "id": "63_iliad_operatori",
+      "quando": "2026-11-19T16:00",
+      "rubrica": "Brand contro brand",
+      "video": "63_iliad_operatori.mp4",
+      "copertina": "63_iliad_operatori-cover.jpg",
+      "caption": "Commenta SIM e ti mando la guida: come capire se la tua tariffa è giusta prima di cambiare operatore.\n\nStessa offerta da 200 giga, due prezzi. Se arrivi da Iliad paghi 6,99 euro al mese, se arrivi da TIM 11,99. L'offerta è di Very Mobile, che è di WindTre.\n\nIl motivo è nei dati AGCOM di giugno 2026: dei quattro grandi operatori, Iliad è l'unico che cresce. Ha il 16,1% delle SIM delle persone, 0,8 punti in più in un anno. Gli altri tre scendono.\n\nCosì nascono i marchi low cost: Kena è di TIM, Very di WindTre, ho. Mobile di Fastweb e Vodafone. E su ho. attivare la SIM costa 2,99 euro se arrivi da Iliad, 29,90 se arrivi da TIM o Vodafone.\n\nPoi ci sono gli aumenti sulle ricaricabili: TIM a luglio, WindTre a novembre. Con un SMS gratis, entro la scadenza, il prezzo restava quello.\n\nE Iliad? Promette offerte che non cambiano nel tempo, ma il suo contratto le lascia cambiare, tranne quelle \"Per sempre\". Come per tutti.\n\nNessun tifo. Sono i siti degli operatori e i dati AGCOM, e sapere come funziona ti aiuta a scegliere.\n\nVideo fatto tutto in codice, senza loghi, non affiliato a nessun operatore.\n\n#iliad #operatoritelefonici #tariffe"
+    },
+    {
+      "id": "64_capsule_moka",
+      "quando": "2026-11-20T16:00",
+      "rubrica": "Brand contro brand",
+      "video": "64_capsule_moka.mp4",
+      "copertina": "64_capsule_moka-cover.jpg",
+      "caption": "Commenta CAPSULA e ti mando la guida: quanto paghi davvero il caffè di casa, al chilo e in un anno.\n\nMoka o capsula? Altroconsumo ha testato 15 caffè macinati per moka: costano da 11 a 29 euro al chilo. Una capsula Nespresso Ristretto costa 4,70 euro per 57 grammi, cioè un prezzo al chilo di 82 euro. Quasi il triplo del macinato più caro.\n\nLa macchina costa 99 euro, o 25 in abbonamento: in cambio paghi 25 euro al mese per un anno, in credito da spendere in capsule.\n\nLa consegna è gratis da 100 capsule, con 10 euro di sconto sul primo ordine. Cento capsule sono 47 euro alla volta.\n\nE i 47 centesimi a capsula sembrano pochi, ma due caffè al giorno fanno 343 euro l'anno. Con la moka, a 12 centesimi a tazzina secondo Altroconsumo, sono 88.\n\nNessun tifo: la capsula è comoda, e la comodità si paga. Sapere quanto ti aiuta a scegliere.\n\nVideo fatto tutto in codice, senza loghi, non affiliato a Nespresso né ad Altroconsumo.\n\n#caffe #moka #risparmio"
+    },
+    {
+      "id": "65_redbull_monster",
+      "quando": "2026-11-21T16:00",
+      "rubrica": "Brand contro brand",
+      "video": "65_redbull_monster.mp4",
+      "copertina": "65_redbull_monster-cover.jpg",
+      "caption": "Commenta LATTINA e ti mando la guida: quanto paghi davvero la tua lattina, al litro e in un anno.\n\nRed Bull o Monster? Due energy drink nello stesso frigo. Su carrefour.it una Red Bull da 250 ml costa 1,39 euro, una Monster da mezzo litro 1,55. Al litro fa 5,56 euro contro 3,10. Eppure nel 2025 Red Bull ha incassato 12,2 miliardi di euro, il gruppo Monster 7,3.\n\nIl primo trucco è la lattina piccola: si guarda il prezzo della lattina, non il prezzo al litro. La Coca-Cola, al litro, costa meno della metà di una Red Bull.\n\nIl secondo è lo spettacolo: il nome Red Bull gioca a calcio e corre in Formula 1, e la pubblicità non sembra pubblicità.\n\nIl terzo è la fabbrica: Monster fa produrre ad altri la maggior parte delle sue lattine, e su ogni euro di vendite, tolto il costo del prodotto, restano 56 centesimi.\n\nE in Italia Monster la distribuisce l'imbottigliatore della Coca-Cola, mentre The Coca-Cola Company ne possiede più di un quinto.\n\nNessun tifo: scegli quella che ti piace, ma sapendo quanto la paghi. Prezzi del 16 novembre 2026, cambiano da negozio a negozio.\n\nVideo fatto tutto in codice, senza loghi, non affiliato a Red Bull, Monster, Coca-Cola o Carrefour.\n\n#energydrink #redbull #risparmio"
+    },
+    {
+      "id": "14_casino",
+      "quando": "2026-11-22T16:00",
       "rubrica": "Il negozio ti sta manipolando",
       "video": "14_casino.mp4",
       "copertina": "14_casino-cover.jpg",
@@ -123,7 +163,7 @@
     },
     {
       "id": "49_lego",
-      "quando": "2026-11-18T16:00",
+      "quando": "2026-11-23T16:00",
       "rubrica": "L'errore da miliardi",
       "video": "49_lego.mp4",
       "copertina": "49_lego-cover.jpg",
@@ -131,7 +171,7 @@
     },
     {
       "id": "37_autogrill",
-      "quando": "2026-11-19T16:00",
+      "quando": "2026-11-24T16:00",
       "rubrica": "Made in Italy",
       "video": "37_autogrill.mp4",
       "copertina": "37_autogrill-cover.jpg",
@@ -139,7 +179,7 @@
     },
     {
       "id": "42_chatgpt",
-      "quando": "2026-11-20T16:00",
+      "quando": "2026-11-25T16:00",
       "rubrica": "Tecnologia spiegata in 3D",
       "video": "42_chatgpt.mp4",
       "copertina": "42_chatgpt-cover.jpg",
