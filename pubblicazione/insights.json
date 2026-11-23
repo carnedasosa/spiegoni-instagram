@@ -1,6 +1,6 @@
 {
   "versione": 1,
-  "letto_il": "2026-11-17T11:42:14Z",
+  "letto_il": "2026-11-23T13:11:31Z",
   "account": {
     "username": "glispiegoni",
     "follower": 41,
@@ -16,8 +16,8 @@
       "tipo": "REELS",
       "like": 27,
       "commenti": 2,
-      "copertura": 1046,
-      "visualizzazioni": 1185,
+      "copertura": 1054,
+      "visualizzazioni": 1194,
       "salvataggi": 0,
       "condivisioni": 1,
       "interazioni": 30
@@ -42,8 +42,8 @@
       "tipo": "REELS",
       "like": 36,
       "commenti": 1,
-      "copertura": 1063,
-      "visualizzazioni": 1194,
+      "copertura": 1064,
+      "visualizzazioni": 1196,
       "salvataggi": 1,
       "condivisioni": 0,
       "interazioni": 38
@@ -55,8 +55,8 @@
       "tipo": "REELS",
       "like": 26,
       "commenti": 13,
-      "copertura": 1424,
-      "visualizzazioni": 1639,
+      "copertura": 1426,
+      "visualizzazioni": 1641,
       "salvataggi": 12,
       "condivisioni": 11,
       "interazioni": 62
@@ -107,8 +107,8 @@
       "tipo": "REELS",
       "like": 55,
       "commenti": 0,
-      "copertura": 1593,
-      "visualizzazioni": 1785,
+      "copertura": 1594,
+      "visualizzazioni": 1786,
       "salvataggi": 2,
       "condivisioni": 1,
       "interazioni": 58
@@ -118,13 +118,13 @@
       "permalink": "https://www.instagram.com/reel/DffHWEAnwUW/",
       "pubblicato_il": "2026-11-08T15:49:11+0000",
       "tipo": "REELS",
-      "like": 33,
+      "like": 34,
       "commenti": 0,
-      "copertura": 1768,
-      "visualizzazioni": 1963,
-      "salvataggi": 5,
+      "copertura": 1772,
+      "visualizzazioni": 1969,
+      "salvataggi": 6,
       "condivisioni": 7,
-      "interazioni": 45
+      "interazioni": 47
     },
     {
       "media_id": "18453237256135274",
@@ -159,11 +159,11 @@
       "tipo": "REELS",
       "like": 95,
       "commenti": 3,
-      "copertura": 4946,
-      "visualizzazioni": 5449,
-      "salvataggi": 19,
+      "copertura": 5000,
+      "visualizzazioni": 5490,
+      "salvataggi": 20,
       "condivisioni": 39,
-      "interazioni": 161
+      "interazioni": 162
     },
     {
       "media_id": "18136467208778961",
@@ -172,8 +172,8 @@
       "tipo": "REELS",
       "like": 37,
       "commenti": 0,
-      "copertura": 1454,
-      "visualizzazioni": 1608,
+      "copertura": 1456,
+      "visualizzazioni": 1609,
       "salvataggi": 5,
       "condivisioni": 4,
       "interazioni": 46
@@ -185,8 +185,8 @@
       "tipo": "REELS",
       "like": 40,
       "commenti": 0,
-      "copertura": 1569,
-      "visualizzazioni": 1835,
+      "copertura": 1572,
+      "visualizzazioni": 1837,
       "salvataggi": 3,
       "condivisioni": 7,
       "interazioni": 50
@@ -205,10 +205,5 @@
       "interazioni": 56
     }
   ],
-  "errore": {
-    "quando": "2026-11-17T15:20:36Z",
-    "codice": 190,
-    "sottocodice": 0,
-    "messaggio": "token non valido: va rigenerato"
-  }
+  "errore": null
 }
