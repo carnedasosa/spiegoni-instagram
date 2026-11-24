@@ -1,26 +1,39 @@
 {
   "versione": 1,
-  "letto_il": "2026-11-24T10:22:20Z",
+  "letto_il": "2026-11-24T15:21:57Z",
   "account": {
     "username": "glispiegoni",
     "follower": 41,
     "seguiti": 5,
-    "post": 16
+    "post": 17
   },
   "insights": "ok",
   "post": [
+    {
+      "media_id": "18102991010427005",
+      "permalink": "https://www.instagram.com/reel/DgIQ40yinon/",
+      "pubblicato_il": "2026-11-24T15:21:36+0000",
+      "tipo": "REELS",
+      "like": 0,
+      "commenti": 0,
+      "copertura": 0,
+      "visualizzazioni": 0,
+      "salvataggi": 0,
+      "condivisioni": 0,
+      "interazioni": 0
+    },
     {
       "media_id": "18136382242776736",
       "permalink": "https://www.instagram.com/reel/DgFsD-IHfcu/",
       "pubblicato_il": "2026-11-23T15:21:21+0000",
       "tipo": "REELS",
-      "like": 32,
+      "like": 36,
       "commenti": 0,
-      "copertura": 1286,
-      "visualizzazioni": 1463,
-      "salvataggi": 2,
+      "copertura": 1341,
+      "visualizzazioni": 1534,
+      "salvataggi": 3,
       "condivisioni": 0,
-      "interazioni": 34
+      "interazioni": 39
     },
     {
       "media_id": "18135225907685881",
