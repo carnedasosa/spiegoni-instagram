@@ -18,15 +18,15 @@ Generato da `./reel ig carica` (repository IG-3-trucchi): non modificarlo a mano
 | sabato 14 novembre 2026 16:00 | 06_starbucks_bar | Brand contro brand | pubblicato |
 | domenica 15 novembre 2026 16:00 | 21_duolingo | Se è gratis, chi paga? | pubblicato |
 | lunedì 16 novembre 2026 16:00 | 44_contactless | Tecnologia spiegata in 3D | pubblicato |
-| martedì 17 novembre 2026 16:00 | 61_playstation_nintendo | Brand contro brand | in calendario |
-| mercoledì 18 novembre 2026 16:00 | 62_spotify_apple_music | Brand contro brand | in calendario |
-| giovedì 19 novembre 2026 16:00 | 63_iliad_operatori | Brand contro brand | in calendario |
-| venerdì 20 novembre 2026 16:00 | 64_capsule_moka | Brand contro brand | in calendario |
-| sabato 21 novembre 2026 16:00 | 65_redbull_monster | Brand contro brand | in calendario |
-| domenica 22 novembre 2026 16:00 | 14_casino | Il negozio ti sta manipolando | in calendario |
-| lunedì 23 novembre 2026 16:00 | 49_lego | L'errore da miliardi | in calendario |
-| martedì 24 novembre 2026 16:00 | 37_autogrill | Made in Italy | in calendario |
-| mercoledì 25 novembre 2026 16:00 | 42_chatgpt | Tecnologia spiegata in 3D | in calendario |
+| lunedì 23 novembre 2026 16:00 | 61_playstation_nintendo | Brand contro brand | pubblicato |
+| martedì 24 novembre 2026 16:00 | 62_spotify_apple_music | Brand contro brand | pubblicato |
+| mercoledì 25 novembre 2026 16:00 | 63_iliad_operatori | Brand contro brand | pubblicato |
+| giovedì 26 novembre 2026 16:00 | 64_capsule_moka | Brand contro brand | pubblicato |
+| venerdì 27 novembre 2026 16:00 | 65_redbull_monster | Brand contro brand | in calendario |
+| sabato 28 novembre 2026 16:00 | 14_casino | Il negozio ti sta manipolando | in calendario |
+| domenica 29 novembre 2026 16:00 | 49_lego | L'errore da miliardi | in calendario |
+| lunedì 30 novembre 2026 16:00 | 37_autogrill | Made in Italy | in calendario |
+| martedì 1 dicembre 2026 16:00 | 42_chatgpt | Tecnologia spiegata in 3D | in calendario |
 | lunedì 4 gennaio 2027 16:00 | 26_palestra | Se è gratis, chi paga? | in calendario |
 
 ## 03_coca_vs_pepsi (martedì 3 novembre 2026, 16:00)
@@ -263,7 +263,7 @@ Video fatto tutto in codice: carta e POS generici, nessun marchio di banche o ci
 
 #nfc #contactless #tecnologia
 
-## 61_playstation_nintendo (martedì 17 novembre 2026, 16:00)
+## 61_playstation_nintendo (lunedì 23 novembre 2026, 16:00)
 
 Commenta CONSOLE e ti mando la guida: quanto costa davvero giocare in un anno e come spendere meno.
 
@@ -281,7 +281,7 @@ Video fatto tutto in codice, senza loghi, non affiliato a Sony o Nintendo.
 
 #playstation #nintendo #videogiochi
 
-## 62_spotify_apple_music (mercoledì 18 novembre 2026, 16:00)
+## 62_spotify_apple_music (martedì 24 novembre 2026, 16:00)
 
 Commenta PLAYLIST e ti mando la guida: quanto paghi davvero la musica in un anno e come spendere meno.
 
@@ -299,7 +299,7 @@ Video fatto tutto in codice, senza loghi, non affiliato a Spotify o Apple.
 
 #spotify #applemusic #abbonamenti
 
-## 63_iliad_operatori (giovedì 19 novembre 2026, 16:00)
+## 63_iliad_operatori (mercoledì 25 novembre 2026, 16:00)
 
 Commenta SIM e ti mando la guida: come capire se la tua tariffa è giusta prima di cambiare operatore.
 
@@ -319,7 +319,7 @@ Video fatto tutto in codice, senza loghi, non affiliato a nessun operatore.
 
 #iliad #operatoritelefonici #tariffe
 
-## 64_capsule_moka (venerdì 20 novembre 2026, 16:00)
+## 64_capsule_moka (giovedì 26 novembre 2026, 16:00)
 
 Commenta CAPSULA e ti mando la guida: quanto paghi davvero il caffè di casa, al chilo e in un anno.
 
@@ -337,7 +337,7 @@ Video fatto tutto in codice, senza loghi, non affiliato a Nespresso né ad Altro
 
 #caffe #moka #risparmio
 
-## 65_redbull_monster (sabato 21 novembre 2026, 16:00)
+## 65_redbull_monster (venerdì 27 novembre 2026, 16:00)
 
 Commenta LATTINA e ti mando la guida: quanto paghi davvero la tua lattina, al litro e in un anno.
 
@@ -357,7 +357,7 @@ Video fatto tutto in codice, senza loghi, non affiliato a Red Bull, Monster, Coc
 
 #energydrink #redbull #risparmio
 
-## 14_casino (domenica 22 novembre 2026, 16:00)
+## 14_casino (sabato 28 novembre 2026, 16:00)
 
 Commenta FICHE e ti mando la guida PDF: i 3 trucchi della sala, i limiti da darti prima di entrare, dove chiedere aiuto.
 
@@ -377,7 +377,7 @@ Il video l'ho fatto tutto in codice: sala, macchine e fiches sono generiche, nes
 
 #giocodazzardo #psicologia #roulette
 
-## 49_lego (lunedì 23 novembre 2026, 16:00)
+## 49_lego (domenica 29 novembre 2026, 16:00)
 
 Commenta MATTONCINO e ti mando il brief di questo video su LEGO: copione, scene, voce e fonti.
 
@@ -395,7 +395,7 @@ Il video l'ho fatto tutto in codice, con mattoncini generici e senza loghi. Non 
 
 #lego #mattoncini #business
 
-## 37_autogrill (martedì 24 novembre 2026, 16:00)
+## 37_autogrill (lunedì 30 novembre 2026, 16:00)
 
 Commenta PANINO e ti mando il brief PDF di questo video: copione, le 5 inquadrature e le fonti, tutto in codice.
 
@@ -411,7 +411,7 @@ Il video l'ho fatto tutto in codice: bar, area di servizio e casello sono generi
 
 #autostrada #areadiservizio #prezzi
 
-## 42_chatgpt (mercoledì 25 novembre 2026, 16:00)
+## 42_chatgpt (martedì 1 dicembre 2026, 16:00)
 
 Commenta IA e ti mando il codice e il prompt di questa scena: 3 barre e una manopola che scelgono la parola.
 
